@@ -1,5 +1,5 @@
- let a = 2000,
-     b = 4000;
+ let a = 2,
+     b = 4;
 
  let c = a + b;
  console.log(c);
